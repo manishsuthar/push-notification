@@ -1,0 +1,8 @@
+{
+  "name": "SpotboyE",
+  "short_name": "spotboye",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "gcm_sender_id": "927090895884",
+  "gcm_user_visible_only": true
+}
